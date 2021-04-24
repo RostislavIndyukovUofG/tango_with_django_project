@@ -28,7 +28,7 @@ SECRET_KEY = '1d70v1@87f(j&+i)0%fyrptx!7r3qp50&jzx5f%o))gyh=e@!k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [RostislavUni.pythonanywhere.com]
+ALLOWED_HOSTS = ['RostislavUni.pythonanywhere.com']
 
 
 # Application definition
